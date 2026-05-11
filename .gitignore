@@ -4,8 +4,6 @@ __pycache__/
 *.py[cod]
 .env
 logs/
-*.csv
-*.json
 .selenium-cache/
 .browser-cache/
 .browser-profile/
