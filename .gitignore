@@ -7,3 +7,16 @@ logs/
 .selenium-cache/
 .browser-cache/
 .browser-profile/
+
+# Generated scraper output and checkpoints
+output/*
+!output/.gitkeep
+
+# Browser drivers
+chromedriver/
+chromedriver-win64/
+msedgedriver/
+
+# Temporary files
+*.log
+*.tmp
